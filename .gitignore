@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Editor folders
+.vscode/
+
+# OS files
+.DS_Store
+
+# Build
+dist/
+build/
